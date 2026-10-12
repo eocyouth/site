@@ -1,0 +1,467 @@
+
+{
+  "site": {
+    "name": "EOC Youth",
+    "organisation": "Emmanuel Outreach Centre Youth",
+    "tagline": "Know the Word. Live the Truth.",
+    "email": "youth.emc00@gmail.com",
+    "phone": "+27 81 360 4450",
+    "meeting": "Fridays, 19:00–21:00",
+    "address": "Emmanuel Outreach Centre, 08 Disa Pl, Asherville, Durban",
+    "idm": "https://icarusdigi.github.io/site/"
+  },
+  "books": [
+    {
+      "id": "acts",
+      "title": "Acts of the Apostles",
+      "label": "THE EARLY CHURCH",
+      "testament": "New Testament",
+      "shortDescription": "Discover how the risen Jesus continued His work through the Holy Spirit and the witness of the early Church.",
+      "overview": "The Acts of the Apostles records the spread of the Christian message from Jerusalem into the wider Roman world. Luke describes the coming of the Holy Spirit, the apostles' witness to the resurrection, the growth of the Church, persecution, missionary journeys and the inclusion of Gentiles.",
+      "purpose": "Acts demonstrates how God empowers ordinary believers to bear witness to Jesus, even amid opposition. The book follows the movement from Jerusalem towards the nations and shows the importance of prayer, courage, unity and obedience.",
+      "themes": ["The Holy Spirit", "Witness and mission", "The resurrection of Jesus", "Prayer", "Church community", "Persecution and courage", "The Gospel for all nations"],
+      "cover": "assets/images/books/acts.png",
+      "glow": "#456d9c",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Ascension and the Promise",
+          "image": "assets/images/chapters/acts/chapter1.png",
+          "overview": "Acts begins with the risen Jesus instructing His disciples to wait for the promised Holy Spirit. Jesus ascends into heaven, and the disciples return to Jerusalem. The community prays together and chooses Matthias to join the eleven apostles.",
+          "insight": "The disciples are given a mission before they receive the power to carry it out. Their waiting is not inactivity; it is an act of obedience and preparation. Christian mission depends on God's power, not confidence in human ability alone.",
+          "summary": "Jesus promises the Holy Spirit, commissions His witnesses and ascends. The disciples pray together and appoint Matthias to restore the number of apostles.",
+          "themes": ["The promise of the Holy Spirit", "Witness to Jesus", "Prayer and unity", "The ascension"],
+          "keyVerse": {"reference": "Acts 1:8", "translation": "NIV", "thought": "Jesus promises power through the Holy Spirit so that His followers can be His witnesses to the ends of the earth."}
+        },
+        {
+          "number": 2,
+          "title": "Pentecost and the Birth of the Church",
+          "image": "assets/images/chapters/acts/chapter2.png",
+          "overview": "The Holy Spirit comes upon the believers at Pentecost. They speak in languages understood by visitors from many nations. Peter explains the events through Scripture, proclaims Jesus' resurrection and calls the crowd to repentance. Many respond, and the believers begin sharing life together.",
+          "insight": "Pentecost shows that the Gospel is not limited to one language or people. The Spirit empowers witness, while the early believers demonstrate how faith shapes generosity, worship, learning and fellowship.",
+          "summary": "The Spirit comes at Pentecost, Peter preaches Christ, many people respond and the new community devotes itself to apostolic teaching, fellowship, prayer and shared life.",
+          "themes": ["Pentecost", "The Holy Spirit", "Repentance", "The resurrection", "Christian fellowship"],
+          "keyVerse": {"reference": "Acts 2:42", "translation": "NIV", "thought": "The believers devote themselves to teaching, fellowship, the breaking of bread and prayer."}
+        },
+        {
+          "number": 3,
+          "title": "The Healing at the Temple Gate",
+          "image": "assets/images/chapters/acts/chapter3.png",
+          "overview": "Peter and John encounter a man who has been unable to walk since birth. In the name of Jesus Christ, Peter tells him to walk, and the man is healed. The astonished crowd gathers, giving Peter an opportunity to explain that the power comes from Jesus.",
+          "insight": "The healing directs attention away from the apostles themselves and towards Jesus. Christian witness should point people to Christ rather than personal status, reputation or power.",
+          "summary": "A man is healed at the temple gate. Peter uses the crowd's amazement to call people to repentance and explain the significance of Jesus.",
+          "themes": ["Healing in Jesus' name", "Faith and witness", "Repentance", "The authority of Christ"],
+          "keyVerse": {"reference": "Acts 3:6", "translation": "NIV", "thought": "Peter offers what he has: healing and restoration through the name of Jesus Christ."}
+        },
+        {
+          "number": 4,
+          "title": "Courage Before the Council",
+          "image": "assets/images/chapters/acts/chapter4.png",
+          "overview": "Peter and John are arrested and questioned about the healing. Peter boldly testifies that the man was healed through Jesus Christ, whom the authorities crucified and God raised from the dead. The believers pray for courage, and the community shares its possessions to care for those in need.",
+          "insight": "The Church responds to opposition with prayer rather than surrender. Its boldness is grounded in the conviction that Jesus is risen and that God's authority is greater than human threats.",
+          "summary": "Peter and John testify before the council. The believers pray for boldness and support one another through generous sharing.",
+          "themes": ["Boldness", "Prayer", "The risen Jesus", "Unity", "Generosity"],
+          "keyVerse": {"reference": "Acts 4:12", "translation": "NIV", "thought": "Peter proclaims that salvation is found in Jesus Christ."}
+        },
+        {
+          "number": 5,
+          "title": "Integrity and Opposition",
+          "image": "assets/images/chapters/acts/chapter5.png",
+          "overview": "Ananias and Sapphira deceive the community about a gift, demonstrating the seriousness of dishonesty before God. The apostles continue healing and teaching, but their growing influence leads to imprisonment and conflict with religious authorities.",
+          "insight": "The chapter contrasts integrity within the Church with attempts to silence its witness. Generosity is meaningful when it is sincere; appearing faithful while deliberately deceiving others undermines the community's trust.",
+          "summary": "The judgment of Ananias and Sapphira warns against deception. The apostles continue their ministry despite arrest and threats.",
+          "themes": ["Integrity", "Honesty before God", "Church leadership", "Persecution", "Obedience"],
+          "keyVerse": {"reference": "Acts 5:29", "translation": "NIV", "thought": "The apostles declare that obedience to God must take priority over obedience to human authorities when the two conflict."}
+        },
+        {
+          "number": 6,
+          "title": "Serving the Community",
+          "image": "assets/images/chapters/acts/chapter6.png",
+          "overview": "A complaint arises because some widows are being overlooked in the daily distribution of food. The apostles appoint seven respected, Spirit-filled men to oversee this responsibility while the apostles continue their ministry of prayer and teaching. Stephen becomes prominent through his wisdom and witness.",
+          "insight": "The early Church takes practical needs seriously. Spiritual leadership includes ensuring that vulnerable people are treated fairly, and different forms of service can strengthen the same mission.",
+          "summary": "The Church addresses an unequal distribution of food by appointing seven servants. Stephen's ministry attracts opposition.",
+          "themes": ["Fairness", "Servant leadership", "Care for widows", "Wisdom and the Spirit", "Shared responsibility"],
+          "keyVerse": {"reference": "Acts 6:3", "translation": "NIV", "thought": "The community looks for people of good character, wisdom and spiritual maturity to serve."}
+        },
+        {
+          "number": 7,
+          "title": "Stephen's Testimony",
+          "image": "assets/images/chapters/acts/chapter7.png",
+          "overview": "Stephen recounts Israel's history before the council, showing how God's people repeatedly resisted His messengers. He confronts his accusers with their resistance to the Holy Spirit. As he is killed, Stephen sees Jesus exalted and prays for his persecutors.",
+          "insight": "Stephen's testimony shows that knowing religious history is not enough; people must respond faithfully to what God reveals. His final prayer reflects the mercy and courage demonstrated by Jesus.",
+          "summary": "Stephen explains Israel's history, challenges the council's resistance to God and becomes the first recorded Christian martyr in Acts.",
+          "themes": ["Faithful witness", "Israel's history", "Resistance to God", "Forgiveness", "Martyrdom"],
+          "keyVerse": {"reference": "Acts 7:59–60", "translation": "NIV", "thought": "Stephen entrusts himself to Jesus and asks God not to hold his attackers' sin against them."}
+        },
+        {
+          "number": 8,
+          "title": "The Gospel Spreads to Samaria",
+          "image": "assets/images/chapters/acts/chapter8.png",
+          "overview": "Following Stephen's death, persecution scatters believers beyond Jerusalem. Philip proclaims Christ in Samaria, where many respond. An Ethiopian official encounters Philip while reading Isaiah, receives an explanation of the Scripture and is baptised.",
+          "insight": "What appears to be a setback becomes an opportunity for the Gospel to spread. Philip's encounter with the Ethiopian also demonstrates the importance of explaining Scripture and welcoming people from different backgrounds.",
+          "summary": "Persecution scatters believers, Philip preaches in Samaria and an Ethiopian official hears the Gospel and is baptised.",
+          "themes": ["Mission beyond Jerusalem", "Evangelism", "Understanding Scripture", "Inclusion", "Baptism"],
+          "keyVerse": {"reference": "Acts 8:35", "translation": "NIV", "thought": "Philip begins with the passage the Ethiopian is reading and explains the good news about Jesus."}
+        },
+        {
+          "number": 9,
+          "title": "The Conversion of Saul",
+          "image": "assets/images/chapters/acts/chapter9.png",
+          "overview": "Saul travels to Damascus intending to arrest followers of Jesus. A heavenly encounter with the risen Jesus leaves him blind. Ananias obeys God's instruction to visit him, Saul regains his sight and is baptised. Saul begins proclaiming Jesus, while the Church gradually learns to trust his changed life.",
+          "insight": "God can transform even a determined opponent into a witness. Saul's story also shows that transformation involves receiving help, entering community and allowing others to recognise the fruit of a changed life.",
+          "summary": "Saul encounters Jesus, receives help from Ananias, is baptised and begins preaching. Peter also ministers to people in Lydda and Joppa.",
+          "themes": ["Conversion", "Grace", "Obedience", "Forgiveness", "A changed life"],
+          "keyVerse": {"reference": "Acts 9:15", "translation": "NIV", "thought": "God identifies Saul as a chosen instrument to carry His name to the nations."}
+        },
+        {
+          "number": 10,
+          "title": "Peter and Cornelius",
+          "image": "assets/images/chapters/acts/chapter10.png",
+          "overview": "Cornelius, a Roman centurion, receives a vision directing him to Peter. Peter receives a vision that challenges his understanding of clean and unclean things. When Peter visits Cornelius, he proclaims Jesus, and the Holy Spirit comes upon the Gentile listeners.",
+          "insight": "Peter learns that he must not treat people as unacceptable to God simply because they come from a different background. The Spirit's work challenges prejudice and confirms that the Gospel reaches beyond existing social and religious boundaries.",
+          "summary": "God directs Peter to Cornelius. Peter preaches Jesus to a Gentile household, and the Holy Spirit comes upon those who hear.",
+          "themes": ["God's impartiality", "Gentile inclusion", "The Holy Spirit", "Obedience", "Breaking down barriers"],
+          "keyVerse": {"reference": "Acts 10:34–35", "translation": "NIV", "thought": "Peter recognises that God does not show favouritism and welcomes those who fear Him and do what is right."}
+        }
+      ]
+    },
+    {
+      "id": "romans",
+      "title": "Paul's Letter to the Romans",
+      "label": "THE GOSPEL AND GRACE",
+      "testament": "New Testament",
+      "shortDescription": "Explore sin, grace, justification by faith, life in the Spirit and the transforming power of the Gospel.",
+      "overview": "Romans is Paul's sustained explanation of the Gospel and its implications for humanity. He explains the universal problem of sin, God's righteousness revealed through Jesus Christ, justification by faith, the work of the Holy Spirit and the shape of a life transformed by God's mercy.",
+      "purpose": "Romans calls readers away from self-reliance and towards trust in God's saving work. It also explains how the Gospel forms a community marked by humility, love, unity and practical service.",
+      "themes": ["The power of the Gospel", "Sin and human need", "Justification by faith", "Grace", "Life in the Spirit", "God's faithfulness", "Transformed living"],
+      "cover": "assets/images/books/romans.png",
+      "glow": "#7c5d91",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Gospel and Humanity's Rebellion",
+          "image": "assets/images/chapters/romans/chapter-01.jpg",
+          "overview": "Paul introduces himself as a servant of Jesus Christ and explains his calling to proclaim the Gospel. He declares that the Gospel is God's power for salvation to everyone who believes. He then describes humanity's rejection of God and the consequences of exchanging the Creator's truth for idolatry.",
+          "insight": "The Gospel is not merely advice but God's power to save. Paul's description of humanity's rebellion shows how rejecting truth distorts worship and life, establishing the need for God's righteousness.",
+          "summary": "Paul introduces his mission, declares the power of the Gospel and explains how humanity's rejection of God leads to spiritual and moral corruption.",
+          "themes": ["The power of the Gospel", "God's righteousness", "Human rebellion", "The consequences of sin"],
+          "keyVerse": {"reference": "Romans 1:16–17", "translation": "NIV", "thought": "Paul is unashamed of the Gospel because it brings salvation to everyone who believes."}
+        },
+        {
+          "number": 2,
+          "title": "God's Impartial Judgment",
+          "image": "assets/images/chapters/romans/chapter-02.jpg",
+          "overview": "Paul confronts people who judge others while practising similar sins. God's judgment is impartial and based on truth. Religious identity, knowledge of the Law and outward signs cannot replace genuine obedience; God looks at the heart.",
+          "insight": "Religious knowledge can become a source of pride when it is not accompanied by repentance. God's kindness is intended to lead people towards change, not to provide an excuse for hypocrisy.",
+          "summary": "Paul warns against self-righteous judgment and explains that God judges impartially. True obedience is inward rather than merely outward.",
+          "themes": ["God's impartial judgment", "Hypocrisy", "Repentance", "Obedience of the heart"],
+          "keyVerse": {"reference": "Romans 2:6", "translation": "NIV", "thought": "God judges each person according to their deeds."}
+        },
+        {
+          "number": 3,
+          "title": "All Have Sinned",
+          "image": "assets/images/chapters/romans/chapter-03.jpg",
+          "overview": "Paul explains that both Jews and Gentiles are accountable to God. The Law exposes sin but cannot make humanity righteous. He then presents God's righteousness through faith in Jesus Christ, who provides redemption and makes justification possible by grace.",
+          "insight": "Salvation is not a prize earned through moral achievement. Recognising universal sinfulness removes boasting and directs people towards the mercy offered through Jesus.",
+          "summary": "All people are guilty of sin, the Law reveals their need and justification comes freely through God's grace in Christ.",
+          "themes": ["Universal sinfulness", "Justification by faith", "Grace over works", "The purpose of the Law"],
+          "keyVerse": {"reference": "Romans 3:23–24", "translation": "NIV", "thought": "All have sinned, yet God offers justification freely through the redemption found in Christ Jesus."}
+        },
+        {
+          "number": 4,
+          "title": "Abraham and Righteousness by Faith",
+          "image": "assets/images/chapters/romans/chapter-04.jpg",
+          "overview": "Paul uses Abraham as an example of righteousness credited through faith. Abraham trusted God's promise before circumcision and before the Law was given. His story demonstrates that God's promise rests on faith and grace rather than human achievement.",
+          "insight": "Abraham's example shows that faith is trust in God's promise, not a claim to have earned God's favour. The promise rests on God's faithfulness and is open to all who share Abraham's faith.",
+          "summary": "Paul explains that Abraham was counted righteous through faith. God's promise is received through faith and depends on grace.",
+          "themes": ["Abraham's faith", "God's promise", "Grace", "Righteousness credited through faith"],
+          "keyVerse": {"reference": "Romans 4:3", "translation": "NIV", "thought": "Abraham believed God, and his faith was credited to him as righteousness."}
+        },
+        {
+          "number": 5,
+          "title": "Peace with God Through Christ",
+          "image": "assets/images/chapters/romans/chapter-05.jpg",
+          "overview": "Paul explains the results of justification: peace with God, access to grace and hope even in suffering. God's love is demonstrated in Christ's death for sinners. Paul contrasts Adam, through whom sin and death entered the human story, with Jesus Christ, through whom grace and life abound.",
+          "insight": "Christian hope does not mean suffering disappears. Instead, believers can endure with hope because God's love has been demonstrated in Christ and His grace is greater than the reign of sin.",
+          "summary": "Justification brings peace and hope. Paul contrasts the consequences of Adam's disobedience with the life and grace brought through Jesus.",
+          "themes": ["Peace with God", "Hope in suffering", "God's love", "Adam and Christ", "Grace"],
+          "keyVerse": {"reference": "Romans 5:8", "translation": "NIV", "thought": "God demonstrates His love by Christ dying for us while we were still sinners."}
+        },
+        {
+          "number": 6,
+          "title": "Dead to Sin, Alive in Christ",
+          "image": "assets/images/chapters/romans/chapter-06.jpg",
+          "overview": "Paul addresses whether grace permits believers to continue living in sin. Through baptism into Christ, believers are united with His death and resurrection. They are called to consider themselves dead to sin and alive to God, offering their lives for righteousness.",
+          "insight": "Grace is not permission to remain enslaved to destructive patterns. The new identity given in Christ creates a new direction: believers learn to present themselves to God rather than surrendering to sin.",
+          "summary": "Union with Christ changes the believer's relationship with sin. Believers are called to live as people made alive to God.",
+          "themes": ["Union with Christ", "Freedom from sin", "New life", "Baptism", "Righteousness"],
+          "keyVerse": {"reference": "Romans 6:11", "translation": "NIV", "thought": "Believers are to consider themselves dead to sin but alive to God in Christ Jesus."}
+        },
+        {
+          "number": 7,
+          "title": "The Law and the Struggle with Sin",
+          "image": "assets/images/chapters/romans/chapter-07.jpg",
+          "overview": "Paul explains that believers have died to the Law's former jurisdiction through Christ. He describes how the Law reveals sin without being able to deliver humanity from its power. The chapter ends with a cry for rescue and gratitude for deliverance through Jesus Christ.",
+          "insight": "Knowing what is right does not automatically provide the power to do it. The struggle described here points beyond human determination towards the deliverance God provides through Jesus Christ.",
+          "summary": "The Law reveals sin, but human weakness remains. Paul looks to Jesus Christ as the source of deliverance.",
+          "themes": ["The purpose of the Law", "Human weakness", "The struggle with sin", "Deliverance through Christ"],
+          "keyVerse": {"reference": "Romans 7:24–25", "translation": "NIV", "thought": "Paul asks who can rescue him from the body of death and gives thanks to God through Jesus Christ."}
+        },
+        {
+          "number": 8,
+          "title": "Life in the Spirit",
+          "image": "assets/images/chapters/romans/chapter-08.jpg",
+          "overview": "Paul declares that there is no condemnation for those who are in Christ Jesus. The Spirit gives life, helps believers in weakness and enables them to live as God's children. Paul acknowledges suffering while affirming future glory and God's inseparable love in Christ.",
+          "insight": "Christian assurance rests on God's action rather than the believer's ability to control every circumstance. Suffering is real, but it cannot overturn God's purpose or separate believers from His love.",
+          "summary": "The Spirit brings life and assurance. Creation awaits renewal, believers receive hope and nothing can separate them from God's love in Christ.",
+          "themes": ["No condemnation", "Life in the Spirit", "Adoption", "Hope", "God's inseparable love"],
+          "keyVerse": {"reference": "Romans 8:38–39", "translation": "NIV", "thought": "Paul is convinced that nothing in all creation can separate believers from God's love in Christ Jesus."}
+        },
+        {
+          "number": 9,
+          "title": "God's Sovereignty and Mercy",
+          "image": "assets/images/chapters/romans/chapter-09.jpg",
+          "overview": "Paul expresses deep sorrow over many Israelites' rejection of the Messiah. He reflects on God's promises, His freedom to show mercy and the inclusion of Gentiles. The chapter wrestles with the relationship between God's purposes, human response and the history of Israel.",
+          "insight": "Paul's teaching about God's sovereignty is accompanied by grief, not indifference. The chapter invites humility before God's purposes and reminds readers that belonging to God's people cannot be reduced to outward status.",
+          "summary": "Paul grieves for Israel, reflects on God's promises and mercy, and explains that God's purposes extend beyond human expectations.",
+          "themes": ["God's sovereignty", "Mercy", "Israel and the promises", "Faith", "Humility"],
+          "keyVerse": {"reference": "Romans 9:16", "translation": "NIV", "thought": "God's mercy cannot be reduced to human desire or effort."}
+        },
+        {
+          "number": 10,
+          "title": "The Message of Faith",
+          "image": "assets/images/chapters/romans/chapter-10.jpg",
+          "overview": "Paul longs for Israel's salvation and explains that righteousness is not achieved by establishing one's own standing through the Law. The message of faith is near, and the good news must be proclaimed and heard. Paul emphasises the importance of believing in Christ and calling on His name.",
+          "insight": "Faith is not meant to remain hidden or disconnected from witness. The chapter links hearing, believing, confessing and proclaiming, showing why the Church must make the message of Christ known.",
+          "summary": "Paul explains righteousness through faith, the need to hear the Gospel and the call to proclaim the good news to all.",
+          "themes": ["Faith in Christ", "The message of salvation", "Hearing the Gospel", "Confession", "Mission"],
+          "keyVerse": {"reference": "Romans 10:9", "translation": "NIV", "thought": "Paul connects confessing Jesus as Lord and believing in His resurrection with salvation."}
+        }
+      ]
+    },
+    {
+      "id": "john",
+      "title": "The Gospel of John",
+      "label": "KNOW JESUS. BELIEVE. LIVE.",
+      "testament": "New Testament",
+      "shortDescription": "Discover who Jesus is, the signs He performs, His teachings, His death and resurrection, and the life offered through believing in Him.",
+      "overview": "The Gospel of John presents Jesus as the eternal Word who became flesh and reveals the Father. Through signs, conversations, teachings and encounters, John invites readers to recognise Jesus as the Messiah and Son of God. The narrative moves from the opening testimony about the Word, through Jesus' public ministry and the final week in Jerusalem, to His death, resurrection and appearances.",
+      "purpose": "John explicitly explains that his account is written so that readers may believe Jesus is the Messiah, the Son of God, and have life in His name. This study follows that purpose by exploring the identity of Jesus, the meaning of faith, the work of the Holy Spirit, love, truth, eternal life and discipleship.",
+      "themes": ["Jesus the Word", "Light and darkness", "Signs and belief", "New birth", "Living water", "The Good Shepherd", "Love and service", "The Holy Spirit", "The cross and resurrection", "Eternal life"],
+      "cover": "assets/images/books/john.png",
+      "glow": "#367f8f",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Word Became Flesh",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "John opens by presenting the Word as existing in the beginning, in relationship with God and sharing the divine identity. All things come into being through Him. The Word becomes flesh in Jesus Christ, bringing grace and truth. John the Baptist testifies about Him, and the first disciples begin to follow Jesus.",
+          "insight": "Jesus is not introduced merely as a teacher who appears in history. John presents Him as the eternal Word who reveals God. The contrast between light and darkness frames the Gospel's call to recognise and receive Him.",
+          "summary": "John identifies Jesus as the eternal Word and true light. John the Baptist bears witness, and the first disciples begin following Jesus.",
+          "themes": ["The eternal Word", "Light and darkness", "Grace and truth", "Witness", "Following Jesus"],
+          "keyVerse": {"reference": "John 1:1–5", "translation": "NIV", "thought": "The Word exists from the beginning; life is found in Him, and His light shines in the darkness."}
+        },
+        {
+          "number": 2,
+          "title": "The Wedding at Cana and the Temple",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "At a wedding in Cana, Jesus turns water into wine, revealing His glory and strengthening His disciples' belief. Later, He drives merchants from the temple courts and speaks about the temple of His body, pointing ahead to His death and resurrection.",
+          "insight": "The first sign reveals Jesus' glory through an act of abundance, while the temple incident challenges a shallow understanding of worship. John invites readers to look beyond outward appearances and recognise what Jesus reveals about Himself.",
+          "summary": "Jesus performs His first sign at Cana and confronts the misuse of the temple, foreshadowing His death and resurrection.",
+          "themes": ["Jesus' glory", "Signs and belief", "Worship", "The temple", "Resurrection"],
+          "keyVerse": {"reference": "John 2:11", "translation": "NIV", "thought": "The sign at Cana reveals Jesus' glory, and His disciples respond with belief."}
+        },
+        {
+          "number": 3,
+          "title": "Jesus and Nicodemus",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Nicodemus, a Pharisee and teacher, visits Jesus at night. Jesus explains the necessity of being born from above by the Spirit. He speaks of God's love for the world and the gift of the Son, contrasting belief and light with unbelief and darkness. John the Baptist again points away from himself towards Jesus.",
+          "insight": "Religious knowledge and status do not replace the new life God gives through the Spirit. Jesus' conversation calls for more than curiosity: it invites a response of trust that comes into the light.",
+          "summary": "Jesus teaches Nicodemus about new birth, the Spirit and God's love. John the Baptist affirms that Jesus must increase.",
+          "themes": ["New birth", "The Holy Spirit", "God's love", "Belief and eternal life", "Light and darkness"],
+          "keyVerse": {"reference": "John 3:16–17", "translation": "NIV", "thought": "God gives His Son out of love for the world so that those who believe may have eternal life."}
+        },
+        {
+          "number": 4,
+          "title": "Living Water and the Samaritan Woman",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus speaks with a Samaritan woman at a well, crossing social and religious boundaries. He offers living water and reveals knowledge of her life. She tells her community about Him, and many Samaritans come to believe. Jesus also heals the son of a royal official.",
+          "insight": "Jesus sees the woman fully without reducing her to her past. Her testimony shows how a personal encounter with Christ can lead others to investigate and believe for themselves.",
+          "summary": "Jesus offers living water to a Samaritan woman, many Samaritans believe through her witness, and Jesus heals an official's son.",
+          "themes": ["Living water", "True worship", "Breaking social barriers", "Witness", "Faith"],
+          "keyVerse": {"reference": "John 4:14", "translation": "NIV", "thought": "Jesus describes the life He gives as a spring that leads to eternal life."}
+        },
+        {
+          "number": 5,
+          "title": "Healing at the Pool",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus heals a man who has been disabled for many years near a pool in Jerusalem. Because the healing occurs on the Sabbath, conflict follows. Jesus explains His relationship with the Father and speaks about life, judgment and the testimony that confirms His identity.",
+          "insight": "The chapter contrasts a genuine act of restoration with a religious response focused only on regulations. Jesus' claims require more than admiration for a miracle; they call for a response to who He is.",
+          "summary": "Jesus heals a disabled man on the Sabbath, leading to conflict and a deeper discussion of His authority and relationship with the Father.",
+          "themes": ["Healing", "Sabbath controversy", "Jesus' authority", "Life and judgment", "Witness"],
+          "keyVerse": {"reference": "John 5:24", "translation": "NIV", "thought": "Jesus connects hearing His word and believing the Father with possessing eternal life."}
+        },
+        {
+          "number": 6,
+          "title": "The Bread of Life",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus feeds a large crowd with five loaves and two fish, then walks on the sea towards His disciples. He teaches that He is the bread of life and calls people to seek the life He gives rather than only temporary satisfaction. Some disciples struggle with His teaching, while Peter confesses that Jesus has the words of eternal life.",
+          "insight": "The crowd is drawn by physical provision, but Jesus directs attention to the deeper need for life from God. True discipleship involves trusting Jesus even when His teaching challenges expectations.",
+          "summary": "Jesus feeds the crowd, walks on the sea and teaches about the bread of life. Many struggle with His words, but Peter remains committed.",
+          "themes": ["Jesus the bread of life", "Provision", "Faith", "Eternal life", "Discipleship"],
+          "keyVerse": {"reference": "John 6:35", "translation": "NIV", "thought": "Jesus identifies Himself as the bread of life who satisfies spiritual hunger and thirst."}
+        },
+        {
+          "number": 7,
+          "title": "Jesus at the Festival",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "During the Festival of Tabernacles, people debate Jesus' identity and authority. Jesus teaches publicly, challenges superficial judgment and invites the thirsty to come to Him. The leaders disagree about how to respond, while Nicodemus urges them to hear Jesus fairly.",
+          "insight": "People can witness the same evidence and reach different conclusions because of their assumptions and loyalties. Jesus calls for honest judgment rather than decisions driven by fear, popularity or prejudice.",
+          "summary": "Jesus teaches at the festival, the crowd debates His identity and the authorities struggle over whether to arrest Him.",
+          "themes": ["Jesus' identity", "Living water", "Truthful judgment", "Division", "Courage"],
+          "keyVerse": {"reference": "John 7:37–38", "translation": "NIV", "thought": "Jesus invites the thirsty to come to Him and receive the life associated with the Spirit."}
+        },
+        {
+          "number": 8,
+          "title": "The Light of the World",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus confronts the misuse of accusation in the episode involving a woman accused of adultery, calling for truthful self-examination. He declares Himself the light of the world and teaches about freedom, truth, spiritual parentage and His relationship to Abraham.",
+          "insight": "Jesus exposes both public hypocrisy and the deeper slavery of sin. Genuine freedom is not simply doing whatever one wants; it is remaining in His word and being shaped by truth.",
+          "summary": "Jesus challenges condemnation, identifies Himself as the light of the world and confronts His opponents over truth, freedom and His identity.",
+          "themes": ["Light of the world", "Mercy", "Truth", "Freedom from sin", "Jesus' identity"],
+          "keyVerse": {"reference": "John 8:12", "translation": "NIV", "thought": "Jesus calls Himself the light of the world and promises the light of life to those who follow Him."}
+        },
+        {
+          "number": 9,
+          "title": "The Man Born Blind",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus heals a man who was born blind. The healing becomes the subject of repeated questioning by the Pharisees. The man grows in his understanding of Jesus while the authorities resist the evidence. Jesus concludes by addressing spiritual sight and blindness.",
+          "insight": "Physical sight and spiritual understanding are not the same. The healed man gradually bears witness to what he knows, while those confident in their own judgment become increasingly resistant to truth.",
+          "summary": "Jesus heals a man born blind. The authorities investigate, the man testifies and Jesus exposes the danger of claiming sight while refusing truth.",
+          "themes": ["Healing", "Spiritual sight", "Witness", "Courage under pressure", "Judgment"],
+          "keyVerse": {"reference": "John 9:25", "translation": "NIV", "thought": "The healed man bears witness to the undeniable change in his life, even while others challenge his account."}
+        },
+        {
+          "number": 10,
+          "title": "The Good Shepherd",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus describes Himself as the gate for the sheep and the Good Shepherd who knows His own and lays down His life for them. He contrasts His care with the actions of thieves and hired hands. His teaching about His relationship with the Father prompts further debate.",
+          "insight": "Jesus' leadership is defined by knowledge, protection and self-giving love. The image challenges leaders who exploit others and reassures believers that Christ's care is not distant or indifferent.",
+          "summary": "Jesus presents Himself as the Good Shepherd who gives His life for the sheep and holds His people securely in His care.",
+          "themes": ["The Good Shepherd", "Self-giving love", "Belonging", "Jesus' authority", "Security in Christ"],
+          "keyVerse": {"reference": "John 10:11", "translation": "NIV", "thought": "Jesus identifies Himself as the Good Shepherd who lays down His life for the sheep."}
+        },
+        {
+          "number": 11,
+          "title": "The Raising of Lazarus",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus receives news that Lazarus is ill but arrives after Lazarus has died. He comforts Martha and Mary, weeps with those who mourn and calls Lazarus out of the tomb. The sign leads many to believe, while others report it to the authorities, intensifying the plot against Jesus.",
+          "insight": "Jesus does not respond to grief with emotional distance. He enters the sorrow of those He loves and reveals His authority over death. The sign also shows that revelation can lead to belief or opposition.",
+          "summary": "Jesus raises Lazarus, reveals Himself as the resurrection and the life, and sets in motion the final plot against Him.",
+          "themes": ["Resurrection and life", "Grief", "Faith", "Jesus' compassion", "Conflict"],
+          "keyVerse": {"reference": "John 11:25–26", "translation": "NIV", "thought": "Jesus identifies Himself as the resurrection and the life and calls people to believe in Him."}
+        },
+        {
+          "number": 12,
+          "title": "The King Enters Jerusalem",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Mary anoints Jesus in an act of devotion, and Jesus enters Jerusalem as the crowd welcomes Him. He speaks about His approaching death using the image of a grain of wheat, predicts His being lifted up and calls people to walk in the light.",
+          "insight": "Jesus' kingship overturns expectations of worldly power. His approaching death is presented as the path through which life will come, and the chapter asks whether people will follow Him at personal cost.",
+          "summary": "Jesus is anointed and welcomed into Jerusalem. He explains the significance of His approaching death and calls people to believe in the light.",
+          "themes": ["Devotion", "Jesus' kingship", "The cross", "Sacrificial fruitfulness", "Light and belief"],
+          "keyVerse": {"reference": "John 12:24", "translation": "NIV", "thought": "Jesus uses the grain of wheat to show that death can lead to abundant fruitfulness."}
+        },
+        {
+          "number": 13,
+          "title": "Jesus Washes His Disciples' Feet",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "At the meal before His arrest, Jesus washes His disciples' feet and teaches them to serve one another. He identifies Judas as His betrayer and predicts Peter's denial. Jesus gives a new commandment that His disciples should love one another as He has loved them.",
+          "insight": "Jesus demonstrates authority through humble service. The disciples' identity is to be recognised not by status but by the love they show, modelled on the self-giving love of their Lord.",
+          "summary": "Jesus washes the disciples' feet, predicts betrayal and denial, and commands His followers to love one another.",
+          "themes": ["Servant leadership", "Humility", "Betrayal", "Love", "Discipleship"],
+          "keyVerse": {"reference": "John 13:34–35", "translation": "NIV", "thought": "Jesus makes mutual love the distinguishing mark of His disciples."}
+        },
+        {
+          "number": 14,
+          "title": "The Way, the Truth and the Life",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus comforts His disciples as He prepares to leave them. He speaks of the Father's house, identifies Himself as the way to the Father and promises the Holy Spirit as Advocate and Helper. He gives peace and tells the disciples not to let their hearts be troubled.",
+          "insight": "Jesus prepares His followers for His departure by grounding their hope in His relationship with the Father and the continuing presence of the Spirit. His peace is rooted in God's faithfulness rather than the absence of difficulty.",
+          "summary": "Jesus comforts the disciples, explains His relationship with the Father and promises the Spirit to teach and remind them.",
+          "themes": ["Jesus the way", "The Father", "The Holy Spirit", "Peace", "Hope"],
+          "keyVerse": {"reference": "John 14:6", "translation": "NIV", "thought": "Jesus identifies Himself as the way, the truth and the life through whom people come to the Father."}
+        },
+        {
+          "number": 15,
+          "title": "The Vine and the Branches",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus describes Himself as the true vine and His disciples as branches that must remain in Him to bear fruit. He commands them to love one another and warns that the world may hate them because it has rejected Him. He also speaks of the Spirit's testimony.",
+          "insight": "Fruitfulness grows from abiding in Christ rather than independent effort. Love, obedience and witness flow from this relationship, even when discipleship brings rejection.",
+          "summary": "Jesus calls His disciples to remain in Him, bear fruit, love one another and continue their witness despite opposition.",
+          "themes": ["Abiding in Christ", "Fruitfulness", "Love", "Obedience", "Witness under opposition"],
+          "keyVerse": {"reference": "John 15:5", "translation": "NIV", "thought": "Jesus teaches that fruitful discipleship depends on remaining connected to Him."}
+        },
+        {
+          "number": 16,
+          "title": "The Spirit and the Coming Sorrow",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus prepares His disciples for persecution, sorrow and His departure. He explains the work of the Holy Spirit in exposing the world's error and guiding the disciples into truth. He promises that their grief will turn to joy and encourages them to take heart because He has overcome the world.",
+          "insight": "Jesus does not hide the cost of discipleship. He promises the Spirit's help and a joy grounded in His victory, showing that present sorrow does not have the final word.",
+          "summary": "Jesus explains the Spirit's work, prepares the disciples for His departure and promises joy and peace despite trouble.",
+          "themes": ["The Holy Spirit", "Truth", "Persecution", "Sorrow and joy", "Christ's victory"],
+          "keyVerse": {"reference": "John 16:33", "translation": "NIV", "thought": "Jesus acknowledges trouble in the world while assuring His disciples of His victory."}
+        },
+        {
+          "number": 17,
+          "title": "Jesus Prays for His Disciples",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Jesus prays to the Father, speaking of the glory of His mission and the eternal life given through knowing God and Jesus Christ. He prays for the disciples' protection, sanctification in truth and unity, and extends His prayer to those who will believe through their message.",
+          "insight": "Jesus' prayer reveals the purpose of discipleship: to know God, remain in truth and display a unity that bears witness to the world. His concern reaches beyond the original disciples to future believers.",
+          "summary": "Jesus prays for His mission, the protection and holiness of His disciples, and the unity of all who will believe through their testimony.",
+          "themes": ["Eternal life", "Truth", "Unity", "Mission", "Jesus' intercession"],
+          "keyVerse": {"reference": "John 17:3", "translation": "NIV", "thought": "Jesus describes eternal life in terms of knowing the only true God and Jesus Christ whom He sent."}
+        },
+        {
+          "number": 18,
+          "title": "The Arrest and Trial of Jesus",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Judas leads the authorities to Jesus, who is arrested and brought before the high priest and then Pilate. Peter denies knowing Jesus. Before Pilate, Jesus explains that His kingdom is not of this world and bears witness to the truth, while the authorities and crowd demand His death.",
+          "insight": "The chapter contrasts Jesus' composed faithfulness with the fear and political calculations of those around Him. His kingdom does not operate by worldly domination, yet His witness to truth challenges every authority.",
+          "summary": "Jesus is arrested and questioned, Peter denies Him, and Pilate struggles with the decision while Jesus testifies to His kingdom and the truth.",
+          "themes": ["Betrayal", "Fear and denial", "Truth", "Jesus' kingship", "Political power"],
+          "keyVerse": {"reference": "John 18:37", "translation": "NIV", "thought": "Jesus explains that He came into the world to testify to the truth."}
+        },
+        {
+          "number": 19,
+          "title": "The Crucifixion and Burial",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Pilate sentences Jesus to crucifixion. Jesus is mocked, carries the cross and is crucified. He entrusts His mother to the beloved disciple, declares His work finished and dies. Joseph of Arimathea and Nicodemus prepare His body for burial in a nearby tomb.",
+          "insight": "John presents the cross as both a brutal execution and the completion of Jesus' mission. The care shown at the burial contrasts with the cruelty of the trial and reflects the devotion of those who come forward.",
+          "summary": "Jesus is condemned, crucified and buried. His death completes His mission and prepares for the resurrection account.",
+          "themes": ["The cross", "Sacrifice", "Jesus' kingship", "Fulfilment", "Faithful devotion"],
+          "keyVerse": {"reference": "John 19:30", "translation": "NIV", "thought": "Jesus declares His work finished before giving up His spirit."}
+        },
+        {
+          "number": 20,
+          "title": "The Resurrection and Thomas' Faith",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "Mary Magdalene discovers the empty tomb and encounters the risen Jesus. Jesus appears to the disciples, gives them peace and commissions them. Thomas initially doubts their testimony, but when Jesus appears to him, Thomas confesses Jesus as his Lord and God. John explains that the signs are recorded to lead readers to belief and life.",
+          "insight": "The resurrection transforms fear and grief into witness. Thomas' encounter shows that Jesus meets the disciple's doubt, while John's stated purpose invites readers to respond to the testimony about the risen Christ.",
+          "summary": "The tomb is found empty, Jesus appears to Mary and the disciples, Thomas confesses his faith and John explains the purpose of his Gospel.",
+          "themes": ["The resurrection", "Witness", "Peace", "Doubt and belief", "Life in Jesus' name"],
+          "keyVerse": {"reference": "John 20:31", "translation": "NIV", "thought": "John records Jesus' signs so that readers may believe He is the Messiah and Son of God and have life in His name."}
+        },
+        {
+          "number": 21,
+          "title": "Jesus Restores Peter",
+          "image": "assets/images/chapters/john/johnChp.png",
+          "overview": "The disciples fish on the Sea of Galilee without success until Jesus directs them to a large catch. He shares breakfast with them and asks Peter three times whether he loves Him, entrusting him with the care of Jesus' followers. Jesus speaks about Peter's future and calls him to follow.",
+          "insight": "Peter's threefold denial is met with a threefold opportunity to affirm love and receive a commission. Failure is taken seriously, but it does not have to define the rest of a person's life. Love for Jesus is expressed through faithful care for others.",
+          "summary": "Jesus appears beside the sea, provides a miraculous catch, restores Peter and renews the call to follow Him.",
+          "themes": ["Restoration", "Forgiveness", "Calling", "Service", "Following Jesus"],
+          "keyVerse": {"reference": "John 21:17", "translation": "NIV", "thought": "Jesus calls Peter to demonstrate his love by caring for Jesus' sheep."}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#080d1b">
+    <title>Contact EOC Youth | Bible Study</title>
+    <meta name="description" content="Contact Emmanuel Outreach Centre Youth about Bible study, fellowship and youth activities.">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+    <div id="site-loader" class="site-loader" aria-label="Loading contact page">
+        <div class="loader-mark"><span></span><span></span><span></span></div>
+        <p class="loader-title">EOC YOUTH</p>
+        <p class="loader-subtitle">Preparing your study space</p>
+    </div>
+
+    <div id="site-header"></div>
+
+    <main class="contact-main container">
+        <section class="contact-heading">
+            <div class="section-kicker">WE'D LOVE TO HEAR FROM YOU</div>
+            <h1>Let's connect.</h1>
+            <p>Have a question about Bible study, youth fellowship or getting involved? Reach out to our team.</p>
+        </section>
+
+        <section class="contact-grid">
+            <div class="contact-panel">
+                <div class="section-kicker">GET IN TOUCH</div>
+                <h2>We're here to help.</h2>
+
+                <div class="contact-detail">
+                    <span class="contact-detail-icon">↗</span>
+                    <div>
+                        <span class="detail-label">Youth leader</span>
+                        <a href="tel:+27813604450">+27 81 360 4450</a>
+                    </div>
+                </div>
+
+                <div class="contact-detail">
+                    <span class="contact-detail-icon">@</span>
+                    <div>
+                        <span class="detail-label">Email</span>
+                        <a href="mailto:youth.emc00@gmail.com">youth.emc00@gmail.com</a>
+                    </div>
+                </div>
+
+                <div class="contact-detail">
+                    <span class="contact-detail-icon">⌖</span>
+                    <div>
+                        <span class="detail-label">Find us</span>
+                        <p>Emmanuel Outreach Centre,<br>08 Disa Pl, Asherville, Durban</p>
+                        <a href="https://maps.app.goo.gl/" target="_blank" rel="noopener noreferrer" class="text-link" id="map-link">Find us on Google Maps →</a>
+                    </div>
+                </div>
+
+                <div class="contact-detail">
+                    <span class="contact-detail-icon">◷</span>
+                    <div>
+                        <span class="detail-label">Youth fellowship</span>
+                        <p>Fridays · 19:00–21:00</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contact-form-panel">
+                <div class="section-kicker">SEND A MESSAGE</div>
+                <h2>How can we help?</h2>
+                <p class="muted">Complete the form below to prepare a message in WhatsApp. Nothing is sent until you press Send in WhatsApp.</p>
+
+                <form id="whatsapp-contact-form">
+                    <label for="contact-name">Your name</label>
+                    <input id="contact-name" name="name" type="text" autocomplete="name" placeholder="Enter your name" required>
+
+                    <label for="contact-topic">What is your message about?</label>
+                    <select id="contact-topic" name="topic" required>
+                        <option value="">Choose a topic</option>
+                        <option value="Bible study">Bible study</option>
+                        <option value="Youth fellowship">Youth fellowship</option>
+                        <option value="Getting involved">Getting involved</option>
+                        <option value="General enquiry">General enquiry</option>
+                    </select>
+
+                    <label for="contact-message">Your message</label>
+                    <textarea id="contact-message" name="message" rows="5" placeholder="How can we help you?" required></textarea>
+
+                    <button type="submit" class="button button-primary button-full">
+                        Continue to WhatsApp <span>↗</span>
+                    </button>
+                    <p class="form-note">WhatsApp will open with your message ready to review and send.</p>
+                    <p id="contact-feedback" class="form-feedback" role="status" aria-live="polite"></p>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <div id="site-footer"></div>
+</body>
+</html>
